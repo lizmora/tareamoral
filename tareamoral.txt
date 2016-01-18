@@ -1,0 +1,5 @@
+Administraci�n de la configuraci�n (Configuration management CM) es el conjunto de actividades relacionadas con la administraci�n 
+organizar y controlar las modificaciones al producto con el objetivo de maximizar la productividad a la vez que se minimizan los errores.
+Es el control que se tiene sobre cada uno de los componentes de configuraci�n de un producto con el fin de que todos los cambios que se realicen a estos componentes,
+ una vez que han sido aprobados, se hagan de forma controlada y que en todo momento se conozca cu�l es la versi�n vigente de cada uno. 
+Facilita la identificaci�n e integraci�n de los componentes de configuraci�n que conforman los entregables del proyecto.
