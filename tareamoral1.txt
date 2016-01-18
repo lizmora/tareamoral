@@ -8,6 +8,9 @@ Facilita la identificación e integración de los componentes de configuración que
 
 
 
+Tarea moral completada con exito
+
+
 
 Es el proceso de identificar la configuración del producto para controlar sistemáticamente 
 los cambios a la misma y mantener su integridad a lo largo de todo el ciclo de vida del proyecto. 
