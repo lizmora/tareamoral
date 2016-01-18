@@ -3,3 +3,6 @@ organizar y controlar las modificaciones al producto con el objetivo de maximiza
 Es el control que se tiene sobre cada uno de los componentes de configuraci�n de un producto con el fin de que todos los cambios que se realicen a estos componentes,
  una vez que han sido aprobados, se hagan de forma controlada y que en todo momento se conozca cu�l es la versi�n vigente de cada uno. 
 Facilita la identificaci�n e integraci�n de los componentes de configuraci�n que conforman los entregables del proyecto.
+
+
+Es el proceso de identificar la configuración del producto para controlar sistemáticamente los cambios a la misma y mantener su integridad a lo largo de todo el ciclo de vida del proyecto. 
