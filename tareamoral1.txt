@@ -1,7 +1,7 @@
 Administración de la configuración (Configuration management CM) es el conjunto de actividades relacionadas con la administración 
 de la evolución de los productos durante todo su ciclo de vida. Para ello es necesario identificar, 
 organizar y controlar las modificaciones al producto con el objetivo de maximizar la productividad a la vez que se minimizan los errores.
-<<<<<<< HEAD
+
 Es el control que se tiene sobre cada uno de los componentes de configuración de un producto con el fin de que todos los cambios que se realicen a estos componentes,
  una vez que han sido aprobados, se hagan de forma controlada y que en todo momento se conozca cuál es la versión vigente de cada uno. 
 Facilita la identificación e integración de los componentes de configuración que conforman los entregables del proyecto.
@@ -25,22 +25,3 @@ Algunos problemas comunes que conllevan a la adopción de CM son:
 
 
 
-kljjkhgtyftftyfv
-•	Versiones incorrectas del código son probadas
-=======
-Es el control que se tiene sobre cada uno de los componentes de configuraciï¿½n de un producto con el fin de que todos los cambios que se realicen a estos componentes,
- una vez que han sido aprobados, se hagan de forma controlada y que en todo momento se conozca cuï¿½l es la versiï¿½n vigente de cada uno. 
-Facilita la identificaciï¿½n e integraciï¿½n de los componentes de configuraciï¿½n que conforman los entregables del proyecto.
-
-
-Es el proceso de identificar la configuraciÃ³n del producto para controlar sistemÃ¡ticamente los cambios a la misma y mantener su integridad a lo largo de todo el ciclo de vida del proyecto. 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> origin/tareamoral
-=======
->>>>>>> origin/tareamoral
-=======
->>>>>>> origin/tareamoral
-=======
->>>>>>> origin/tareamoral
