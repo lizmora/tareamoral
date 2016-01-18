@@ -22,6 +22,10 @@ Algunos problemas comunes que conllevan a la adopción de CM son:
 •	No se conoce qué módulos comprende el sistema entregado al cliente
 •	La integración del sistema toma demasiado tiempo
 •	Los programadores están trabajando en una versión incorrecta del código
+
+
+
+kljjkhgtyftftyfv
 •	Versiones incorrectas del código son probadas
 =======
 Es el control que se tiene sobre cada uno de los componentes de configuraciï¿½n de un producto con el fin de que todos los cambios que se realicen a estos componentes,
@@ -33,9 +37,6 @@ Es el proceso de identificar la configuraciÃ³n del producto para controlar siste
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> origin/tareamoral
-=======
 >>>>>>> origin/tareamoral
 =======
 >>>>>>> origin/tareamoral
